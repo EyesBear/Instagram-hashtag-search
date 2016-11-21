@@ -1,11 +1,4 @@
-# Heroku Django Starter Template
-
-An utterly fantastic project starter template for Django 1.9.
-
-## Features
-
-- Production-ready configuration for Static Files, Database Settings, Gunicorn, etc.
-- Enhancements to Django's static file serving functionality via WhiteNoise
+# Pixlee Mini Project
 
 ## How to Use
 
