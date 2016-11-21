@@ -1,0 +1,53 @@
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+
+h4
+ {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+header {
+  text-align: center;
+  background: #18BC9C;
+  color: white;
+}
+
+header .container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+header .search .name {
+  display: block;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 4.75em;
+}
+
+header .search .inputs {
+  font-size: 1.75em;
+}
+
+.navbar-custom {
+  background: #2C3E50;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border: none;
+  padding: 25px 0;
+  -webkit-transition: padding 0.3s;
+  -moz-transition: padding 0.3s;
+  transition: padding 0.3s;
+  font-size: 2em;
+  color: white;
+}
+
+.searchForm > input{
+  color: black;
+}
