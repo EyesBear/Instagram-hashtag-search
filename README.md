@@ -1,5 +1,4 @@
-# Pixlee Mini Project
-
+# Instagram-Hashtag-Search
 ## How to Use
 
 To use this project, follow these steps:
